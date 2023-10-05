@@ -1,0 +1,7 @@
+##############################
+# Requisitos para instalação #
+##############################
+
+robotframework
+robotframework-seleniumlibrary
+robotframework-faker

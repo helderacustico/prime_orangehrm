@@ -87,4 +87,5 @@ Quando clicar em “Save” de cada etapa
 
 Então o sistema deve apresentar a mensagem “Success Successfully”
     Wait Until Page Contains    Successfully Updated
+    Capture Page Screenshot
     Sleep    5s
